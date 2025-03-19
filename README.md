@@ -31,7 +31,9 @@ New to qwiic? Take a look at the entire [SparkFun qwiic ecosystem](https://www.s
 
 This Python package supports the following SparkFun qwiic products on Python, MicroPython and Circuit python. 
 
-* [SparkFun Button Sensor - BUTTON](http://www.sparkfun.com/qwiic)
+* [SparkFun Qwiic Button Red LED](https://www.sparkfun.com/sparkfun-qwiic-button-red-led.html)
+* [SparkFun Qwiic Button Green LED](https://www.sparkfun.com/sparkfun-qwiic-button-green-led.html)
+* [SparkFun Qwiic Button Breakout](https://www.sparkfun.com/sparkfun-qwiic-button-breakout.html)
 
 ### Supported Platforms
 
