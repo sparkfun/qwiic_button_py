@@ -1,6 +1,6 @@
 ![Qwiic BUTTON - Python Package](docs/images/gh-banner.png "qwiic BUTTON Python Package")
 
-# SparkFun Qwiic BUTTON - Python Package
+# SparkFun Qwiic Button - Python Package
 
 ![PyPi Version](https://img.shields.io/pypi/v/sparkfun_qwiic_button)
 ![GitHub issues](https://img.shields.io/github/issues/sparkfun/qwiic_button_py)
@@ -8,7 +8,7 @@
 ![X](https://img.shields.io/twitter/follow/sparkfun)
 [![API](https://img.shields.io/badge/API%20Reference-blue)](https://docs.sparkfun.com/qwiic_button_py/classqwiic__button_1_1_qwiic_button.html)
 
-The SparkFun Qwiic Button BUTTON Module provides a simple and cost effective solution for adding Button capabilities to your project. Implementing a SparkFun Qwiic I2C interface, these sensors can be rapidly added to any project with boards that are part of the SparkFun Qwiic ecosystem.
+The SparkFun Qwiic Button Module provides a simple and cost effective solution for adding Button capabilities to your project. Implementing a SparkFun Qwiic I2C interface, these sensors can be rapidly added to any project with boards that are part of the SparkFun Qwiic ecosystem.
 
 This repository implements a Python package for the SparkFun Qwiic BUTTON. This package works with Python, MicroPython and CircuitPython.
 
@@ -23,7 +23,7 @@ This repository implements a Python package for the SparkFun Qwiic BUTTON. This 
 
 ## About the Package
 
-This python package enables the user to access the features of the BUTTON via a single Qwiic cable. This includes checking button state, configuring button LED, change I2C address and more. The capabilities of the BUTTON are each demonstrated in the included examples.
+This python package enables the user to access the features of the button via a single Qwiic cable. This includes checking button state, configuring button LED, change I2C address and more. The capabilities of the BUTTON are each demonstrated in the included examples.
 
 New to qwiic? Take a look at the entire [SparkFun qwiic ecosystem](https://www.sparkfun.com/qwiic).
 
